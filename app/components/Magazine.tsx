@@ -13,7 +13,7 @@ export default function Magazine() {
           {/* Left Side: The Cover Image */}
           <div className="magazine-visual">
             <div className="magazine-cover-wrapper">
-              <img src="/magazine/cover.jpg" alt="Samvaad Magazine Cover" className="magazine-cover" />
+              <img src="/magazine/cover.png" alt="Samvaad Magazine Cover" className="magazine-cover" />
               <div className="cover-glow"></div>
             </div>
           </div>
@@ -42,7 +42,7 @@ export default function Magazine() {
             <div className="magazine-actions">
               <a 
                 /* Replace this with your Google Drive Link */
-                href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1dh-6eKDB3GXcv4LgCAkHWakKDXyCthq5/view?usp=sharing" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-magazine"
@@ -51,7 +51,7 @@ export default function Magazine() {
               </a>
               
               <a 
-                href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1dh-6eKDB3GXcv4LgCAkHWakKDXyCthq5/view?usp=sharing" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn btn-outline-mag"
