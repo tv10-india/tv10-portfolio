@@ -41,7 +41,7 @@ export default function Magazine() {
 
             <div className="magazine-actions">
               <a 
-                href="/magazine/edition-1.pdf" 
+                href="https://drive.google.com/file/d/1dh-6eKDB3GXcv4LgCAkHWakKDXyCthq5/view?usp=sharing" 
                 download="TV10-Samvaad-Uttarakhand.pdf" 
                 className="btn btn-magazine"
               >
@@ -49,7 +49,7 @@ export default function Magazine() {
               </a>
               
               <a 
-                href="/magazine/edition-1.pdf" 
+                href="https://drive.google.com/file/d/1dh-6eKDB3GXcv4LgCAkHWakKDXyCthq5/view?usp=sharing" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn btn-outline-mag"
